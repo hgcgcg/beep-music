@@ -1,6 +1,6 @@
 # BEEP-MUSIC
 这是hgcgcg的一些beep音乐，你可以在你的个人电脑上运行它。
-你需要安装软件包beep
+你需要安装软件包beep \n
 Debian/Deepin/Ubuntu/Linux Mint
 
 ~~~
