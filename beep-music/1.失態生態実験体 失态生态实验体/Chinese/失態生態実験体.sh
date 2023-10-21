@@ -84,10 +84,10 @@ beep -f 783.99 -l 200
 beep -f 659.26 -l 300
 sleep 0.1
 beep -f 1318.5 -l 200
-beep -f 1318.5 -l 200
+beep -f 1318.5 -l 100
 beep -f 1174.66 -l 200
 beep -f 1318.5 -l 200
-beep -f 1318.5 -l 200
+beep -f 1318.5 -l 100
 beep -f 1174.66 -l 200
 beep -f 1318.5 -l 200
 beep -f 1174.66 -l 200
