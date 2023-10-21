@@ -26,19 +26,19 @@ beep -f 987.77 -l 200
 beep -f 987.77 -l 200
 beep -f 987.77 -l 200
 beep -f 987.77 -l 200
-beep -f 880.00 -l 200
-beep -f 783.99 -l 200
-beep -f 659.26 -l 200
-beep -f 587.33 -l 200
+beep -f 880.00 -l 100
+beep -f 783.99 -l 100
+beep -f 659.26 -l 150
+beep -f 587.33 -l 150
 beep -f 659.26 -l 300
 echo 本家：@PEPOYO_PPY
 sleep 0.1
-beep -f 659.26 -l 200
-beep -f 783.99 -l 200
+beep -f 659.26 -l 100
+beep -f 783.99 -l 100
 beep -f 880.00 -l 200
 beep -f 987.7 -l 200
-beep -f 880.00 -l 200
-beep -f 783.99 -l 200
+beep -f 880.00 -l 100
+beep -f 783.99 -l 100
 beep -f 1174.66 -l 200
 beep -f 987.7 -l 200
 echo 文件：hgcgcg（_yt） （_b）
@@ -47,10 +47,10 @@ beep -f 987.77 -l 200
 beep -f 987.77 -l 200
 beep -f 987.77 -l 200
 beep -f 987.77 -l 200
-beep -f 880.00 -l 200
-beep -f 783.99 -l 200
-beep -f 659.26 -l 200
-beep -f 587.33 -l 200
+beep -f 880.00 -l 100
+beep -f 783.99 -l 100
+beep -f 659.26 -l 150
+beep -f 587.33 -l 150
 beep -f 659.26 -l 300
 echo 以CC BY-NC 4.0协议，不盈利。
 sleep 0.1
@@ -58,8 +58,8 @@ beep -f 987.77 -l 200
 beep -f 987.77 -l 200
 beep -f 987.77 -l 200
 beep -f 987.77 -l 200
-beep -f 880.00 -l 200
-beep -f 783.99 -l 200
+beep -f 880.00 -l 100
+beep -f 783.99 -l 100
 beep -f 1174.66 -l 200
 beep -f 987.77 -l 200
 echo 某些地方请教某ペポン民杂谈群群友@陌生的下界合金剑 与查特·G·波特（ChatGPT）
@@ -68,8 +68,8 @@ beep -f 987.77 -l 200
 beep -f 987.77 -l 200
 beep -f 987.77 -l 200
 beep -f 987.77 -l 200
-beep -f 880.00 -l 200
-beep -f 783.99 -l 200
+beep -f 880.00 -l 100
+beep -f 783.99 -l 100
 beep -f 659.26 -l 200
 beep -f 587.33 -l 200
 beep -f 659.26 -l 300
