@@ -1,5 +1,8 @@
 #!/usr/bin/bash
 clear
+cat ascii.txt
+sleep 2
+clear
 sleep 1
 beep -f 987.77 -l 200
 beep -f 987.77 -l 200
