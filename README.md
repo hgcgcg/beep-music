@@ -17,7 +17,7 @@ sudo yum install beep
 Archlinux/Manjaro
 
 ~~~
-pacman -S beep
+sudo pacman -S beep
 ~~~
 
 音乐列表：  
