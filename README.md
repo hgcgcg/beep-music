@@ -19,10 +19,9 @@ Archlinux/Manjaro
 
 ~~~
 sudo pacman -S beep
-
 ~~~
 
 音乐列表：  
-  1.失态生态实验体/失態生態実験体（未完成）  
+  1.失态生态实验体 作者：
   2....  
 目前只有汉语，但我计划支持en-US,ko-KR,ja-JP, ~~ru-RU~~ 等。
