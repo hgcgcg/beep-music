@@ -18,13 +18,8 @@ sudo yum install beep
 Archlinux/Manjaro
 
 ~~~
-<<<<<<< HEAD
 sudo pacman -S beep
-||||||| parent of 48e9453 (en-US readme.)
-pacman -S beep
-=======
-sudo acman -S beep
->>>>>>> 48e9453 (en-US readme.)
+
 ~~~
 
 音乐列表：  
