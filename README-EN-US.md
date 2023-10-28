@@ -19,5 +19,5 @@ Archlinux/Manjaro etc.
 sudo pacman -S beep
 ~~~
   
-The list:
+The list: <br>
 1.Ever-Blundering Test Subject by [ぺぽよ](https://www.youtube.com/@pepoyoPPY/)   
