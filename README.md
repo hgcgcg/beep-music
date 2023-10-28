@@ -1,4 +1,5 @@
 # BEEP-MUSIC
+[English(US)](https://github.com/hgcgcg/beep-music/blob/main/README-EN-US.md)
 这是hgcgcg的一些beep音乐，你可以在你的个人电脑上运行它。  
 你需要安装软件包beep <br>
   
