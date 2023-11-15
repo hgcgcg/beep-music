@@ -21,7 +21,7 @@ Archlinux/Manjaro
 sudo pacman -S beep
 ~~~
 
-音乐列表：  
-  1.失态生态实验体 作者：[ぺぽよ](https://space.bilibili.com/3461574945671798)  
+## 目前制作（完/中）的列表列表：  
+  1.失态生态实验体 作者：[ぺぽよ](https://space.bilibili.com/3461574945671798)  （未完成）
   2....  
 目前只有汉语，但我计划支持en-US,ko-KR,ja-JP, ~~ru-RU~~ 等。
