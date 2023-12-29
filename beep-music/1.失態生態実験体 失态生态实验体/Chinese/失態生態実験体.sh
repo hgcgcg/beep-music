@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+#!/usr/bin/beep
 clear
 cat ascii.txt
 sleep 2
@@ -44,7 +45,7 @@ beep -f 880.00 -l 100
 beep -f 783.99 -l 100
 beep -f 1174.66 -l 200
 beep -f 987.7 -l 200
-echo 文件：hgcgcg（_yt） （_b）
+echo 文件：hgcgcg
 sleep 0.1 #
 beep -f 987.77 -l 200
 beep -f 987.77 -l 200
@@ -76,7 +77,6 @@ beep -f 783.99 -l 100
 beep -f 659.26 -l 200
 beep -f 587.33 -l 200
 beep -f 659.26 -l 300
-echo 以及感谢@Alemenshark/@Alemonshark的互FO，@Sunnyday_816/@msqt97的~~秒赞~~，@cxk2_5的关心，@zhang22003080的~~绿色（\u9ec4\u8272）健康小清新群~~，@Muskieawa/@Nannyier/4C464354434E4D44474B32484157535949595B5747554B3548553E3E3E3E3E3E还有各位推油们:）AND YOU ＞＿·　（hgcgxg的留言：你闲的慌是吗？肥皂掉了！）
 sleep 0.1
 beep -f 659.26 -l 200
 beep -f 783.99 -l 200
@@ -390,4 +390,16 @@ beep -f 880.00 -l 200
 beep -f 783.99 -l 200
 beep -f 659.26 -l 300
 sleep 0.1
-
+beep -f 659.26 -l 200
+beep -f 659.26 -l 200
+beep -f 587.33 -l 200
+beep -f 659.26 -l 200
+beep -f 659.26 -l 200
+beep -f 587.33 -l 200
+beep -f 659.26 -l 200
+beep -f 587.33 -l 200
+beep -f 392 -l 200
+beep -f 659.26 -l 200
+beep -f 587.33 -l 200
+beep -f 659.26 -l 200
+beep -f 659.26 -l 200
